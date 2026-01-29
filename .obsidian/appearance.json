@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": false,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "scrollbar-style"
+  ],
+  "accentColor": "#2c9694",
+  "theme": "system"
+}
