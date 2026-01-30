@@ -12,8 +12,8 @@ word-knowledge-base 是一个基于 Obsidian 的英语单词知识库项目，�
 ## 安装与部署
 
 1. 安装 [Obsidian](https://obsidian.md/)
-2. 将本项目克隆到 Obsidian 的 `vaults` 目录下
-3. 启动 Obsidian，打开本项目
+2. 将本项目克隆到本地
+3. 启动 Obsidian，打开本项目，并同意使用第三方插件
 
 ## 使用说明
 
