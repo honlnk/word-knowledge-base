@@ -12,3 +12,9 @@
 
 # Ignore Smart Environment folder
 .smart-env
+
+# Ignore skills symbolic links (managed in /Users/honlnk/project/)
+.claude/skills/*
+
+# Ignore Claude session history (privacy protection)
+.claude/sessions/
