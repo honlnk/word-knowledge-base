@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"group-box","type":"group","x":-450,"y":-250,"width":1190,"height":1710,"color":"6","label":"单词关系分析"},
+		{"id":"prefix-node","type":"file","file":"prefix/com、con.md","x":-400,"y":0,"width":300,"height":260,"color":"1"},
+		{"id":"main-title","type":"text","text":"# 单词构词关系图\n\n展示前缀、词根和完整单词的构成关系","x":-200,"y":-200,"width":400,"height":100,"color":"5"},
+		{"id":"root-node","type":"file","file":"word-root/ten.md","x":-400,"y":605,"width":300,"height":220,"color":"3"},
+		{"id":"content-node","type":"file","file":"word-storage/content.md","x":100,"y":0,"width":440,"height":910,"color":"4"},
+		{"id":"formula-box","type":"text","text":"## 构词公式\n\n**con** (一起/全) + **ten** (抓住) = **content**\n\n*完全掌握 → 满足的内容*","x":120,"y":1120,"width":400,"height":180,"color":"2"}
+	],
+	"edges":[
+		{"id":"edge-1","fromNode":"prefix-node","fromSide":"right","toNode":"content-node","toSide":"left","color":"1","label":"前缀修饰"},
+		{"id":"edge-2","fromNode":"root-node","fromSide":"right","toNode":"content-node","toSide":"left","color":"3","label":"词根基础"},
+		{"id":"edge-3","fromNode":"content-node","fromSide":"bottom","toNode":"formula-box","toSide":"top","color":"2","label":"构词分析"}
+	]
+}
