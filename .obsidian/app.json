@@ -9,5 +9,7 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 70
-  }
+  },
+  "propertiesInDocument": "hidden",
+  "tabSize": 2
 }
