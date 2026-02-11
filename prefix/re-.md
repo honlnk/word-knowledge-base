@@ -187,13 +187,13 @@ recover (恢复)     replay (重播)
 
 ## 🎯 与其他前缀的对比
 
-| 前缀 | 含义 | 方向 | 示例 |
-|:-----|------|------|------|
-| **re-** | 再、回 | ← 重复/返回 | redo, return |
-| [[pre-]] | 预先、在前 | → 之前 | prepare, predict |
-| [[post-]] | 后、在后 | ← 之后 | postwar, postpone |
-| [[de-]] | 向下、去除 | ↓ 向下 | decrease, deconstruct |
-| [[over-]] | 过度、过度 | ↑ 过多 | overdo, overeat |
+| 前缀        | 含义    | 方向      | 示例                    |
+| :-------- | ----- | ------- | --------------------- |
+| **re-**   | 再、回   | ← 重复/返回 | redo, return          |
+| [[pre-]]  | 预先、在前 | → 之前    | prepare, predict      |
+| [[post-]] | 后、在后  | ← 之后    | postwar, postpone     |
+| [[de-]]   | 向下、去除 | ↓ 向下    | decrease, deconstruct |
+| [[over-]] | 过度、过度 | ↑ 过多    | overdo, overeat       |
 
 ---
 

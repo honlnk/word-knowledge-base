@@ -1,29 +1,24 @@
 ---
-prefix: com-/con-/col-/cor-
-origin: Latin cum/com
-type: prefix
-frequency: very_high
-difficulty: easy
+prefix: com-
+origin: cum (Latin)
 variants:
-  - co- (before vowels)
-  - com- (before b, m, p)
-  - con- (before c, d, g, j, n, q, s, t, v)
-  - col- (before l)
-  - cor- (before r)
-related_prefixes:
-  - re- (back/again)
-  - dis- (apart)
-  - syn- (together - Greek)
+  - co-
+  - com-
+  - con-
+  - col-
+  - cor-
 tags:
   - prefix
   - vocabulary
   - etymology
+  - latin-root
+  - highly-productive
   - spelling-variants
 created: 2026-01-31
-reviewed: false
+next_review: 2026-02-14
 ---
 
-# com-/con-/col-/cor-/co- 前缀
+# com- 前缀
 
 ## 基本信息
 
@@ -50,11 +45,11 @@ reviewed: false
 
 | 变体 | 使用条件 | 发音辅助记忆 | 口诀 |
 |:-----|:---------|:-------------|------|
-| **co-** | 元音之前 | co-operate | **元音用 co-** |
-| **com-** | b, m, p 之前 | com-bine, com-pile | **双唇音用 com-** |
-| **con-** | c, d, g, j, n, q, s, t, v | con-nect, con-tact | **其他辅音用 con-** |
-| **col-** | l 之前 | col-laborate, col-lect | **l 前用 col-** |
-| **cor-** | r 之前 | cor-rect, cor-rupt | **r 前用 cor-** |
+| [[co-]] | 元音之前 | co-operate | **元音用 co-** |
+| [[com-]] | b, m, p 之前 | com-bine, com-pile | **双唇音用 com-** |
+| [[con-]] | c, d, g, j, n, q, s, t, v | con-nect, con-tact | **其他辅音用 con-** |
+| [[col-]] | l 之前 | col-laborate, col-lect | **l 前用 col-** |
+| [[cor-]] | r 之前 | cor-rect, cor-rupt | **r 前用 cor-** |
 
 > [!example] 快速判断
 > ```
@@ -323,6 +318,12 @@ co-   → "Cooperation" (合作) → 一起做
 ---
 
 ## 🔗 相关链接
+
+### 变体前缀
+- [[co-]] - 元音前
+- [[con-]] - 其他辅音前
+- [[col-]] - l 前
+- [[cor-]] - r 前
 
 ### 前缀相关
 - [[re-]] - 再、回 (对比学习)
