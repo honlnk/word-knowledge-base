@@ -10,10 +10,21 @@ tags:
   - confusion-prone
   - technical-terms
 related_words:
-  - require
-  - requirement
-  - request
-  - standard
+  forms:              # 词形变化
+    - require         # 动词原形
+    - requirement     # 名词形式
+  synonyms:           # 同义词
+    - necessary
+    - mandatory
+  antonyms:            # 反义词
+    - optional
+  confusions:          # 易混淆词
+    - standard
+    - request
+  same_root:           # 同词根
+    - query
+    - question
+    - quest
 created: 2026-01-31
 reviewed: false
 ---

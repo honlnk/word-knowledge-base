@@ -432,7 +432,7 @@ per- (through) + mit (send) = permit (让通过)
 ### 词根相关
 - [[permit]] - 动词形式
 - [[prefix/re-]] - remit, remission (对比学习)
-- [[prefix/com、con、col、cor、co]] - commit, commission (对比学习)
+- [[../prefix/com-]] - commit, commission (对比学习)
 
 ### 同义词
 - [[allow]] - 允许 (更通用)
