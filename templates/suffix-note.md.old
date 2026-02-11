@@ -1,0 +1,353 @@
+---
+suffix: 后缀名称（示例：-ion / -sion / -tion）
+origin: 来源（格式：源形式 (语言)）
+tags:
+  - suffix
+  - vocabulary
+  - etymology
+  - noun-formation
+  - highly-productive
+created: 2026-01-31
+next_review: 2026-02-14
+---
+
+<!--
+=====================================================================
+AI 生成规则：后缀笔记（suffix-note.md）
+=====================================================================
+
+基本信息：
+- suffix: 后缀本身（自动从文件名获取，如 -ion, -ment, -ness）
+- origin: 来源（格式：源形式 (语言)，如：-ionem (Latin), -ment (Latin)）
+  注意：后缀开头带 -（如 -ion），origin 中也要带 -（如 -ionem）
+- 如果后缀有多个形式（如 -ion/-sion/-tion），文件名用 - 连接
+
+标签：
+- 必选：suffix, vocabulary
+- 按功能选择：noun-formation, verb-formation, adjective-formation, adverb-formation
+- 可选：etymology, highly-productive
+
+正文结构：
+- 必选章节：基本信息、三种形式的区别（如果有多个形式）、使用条件、判断技巧
+- 可选章节：发音规律、拼写规则、常见错误、常用词汇表、记忆技巧
+- 如果后缀只有一个形式，简化"三种形式的区别"章节
+
+生成说明：
+1. 识别为后缀笔记（用户会说明）
+2. 如果后缀有多个形式，必须详细说明每种形式的使用条件
+3. 提供判断技巧（流程图或表格）
+4. 保留 YAML 内部的简洁注释
+
+=====================================================================
+-->
+
+# 后缀名称 后缀
+
+## 基本信息
+
+- **来源**: 拉丁语 -ionem（名词后缀）
+- **类型**: 名词后缀 (noun suffix)
+- **功能**: 将动词变成名词
+- **频率**: **英语最高产的名词后缀之一！**
+- **发音**: /ʃn/
+
+> [!tip] 核心功能
+> **动词 + (-ion/-sion/-tion) = 名词**
+>
+> 表示：动作的结果、状态、过程
+
+---
+
+## 🔤 三种形式的区别
+
+### 形式对比
+
+| 后缀形式 | 使用条件 | 示例 |
+|:---------|----------|------|
+| **-tion** | 最常见形式 | action, creation, invention |
+| **-sion** | 特殊条件 | permission, admission, expansion |
+| **-ion** | 直接加词根 | opinion, union, region |
+
+> [!info] 发音提示
+> ```
+> 三种形式发音相同：/ʃn/
+>
+> -tion: /ʃn/  (action)
+> -sion: /ʃn/  (permission)
+> -ion:  /jən/  (opinion)
+> ```
+
+---
+
+## 📝 何时使用哪种形式？
+
+### 1️⃣ **-tion** - 最常见
+
+**适用情况**：大多数动词，特别是以 -te 结尾的动词
+
+| 动词 | + -tion | 名词 | 含义 |
+|:-----|:--------|------|------|
+| act | → | **action** | 行动 |
+| create | → | **creation** | 创造 |
+| invent | → | **invention** | 发明 |
+
+> [!tip] 记忆规律
+> ```
+> 以 -te 结尾的动词 → 去掉 e + -tion
+>
+> create → creat + ion = creation
+> ```
+
+### 2️⃣ **-sion** - 特殊情况
+
+**适用情况**：有特定条件的动词
+
+#### A. 词根是 **mit-/miss-** (to send)
+
+| 动词 | + -sion | 名词 | 含义 |
+|:-----|:--------|------|------|
+| permit | → | **permission** | 许可 |
+| admit | → | **admission** | 承认 |
+| submit | → | **submission** | 提交 |
+
+#### B. 以 **-d/-de** 结尾的动词
+
+| 动词 | + -sion | 名词 | 含义 |
+|:-----|:--------|------|------|
+| decide | → | **decision** | 决定 |
+| divide | → | **division** | 分割 |
+| extend | → | **extension** | 延伸 |
+
+### 3️⃣ **-ion** - 直接加词根
+
+**适用情况**：直接加在词根后，通常词根不以 t/d 结尾
+
+| 词根 | + -ion | 名词 | 含义 |
+|:-----|:-------|------|------|
+| opin | → | **opinion** | 意见 |
+| un | → | **union** | 联合 |
+| reg | → | **region** | 地区 |
+
+---
+
+## 🎯 判断技巧总结
+
+### 快速判断流程图
+
+```
+遇到动词要变名词？
+
+1. 词根是 mit-/miss-？
+   ✓ 是 → -sion (permission, admission)
+   ✗ 否 → 继续
+
+2. 以 -d/-de 结尾？
+   ✓ 是 → -sion (decision, division)
+   ✗ 否 → 继续
+
+3. 以 -te 结尾？
+   ✓ 是 → 去掉 e + -tion (create → creation)
+   ✗ 否 → 继续
+
+4. 其他情况
+   → -tion (最常见)
+   → -ion (直接加词根)
+```
+
+### 判断表
+
+| 条件 | 后缀 | 示例 |
+|:-----|------|------|
+| mit-/miss- 词根 | **-sion** | permission, admission |
+| 以 -d/-de 结尾 | **-sion** | decision, division |
+| 以 -te 结尾 | **-tion** | creation, invention |
+| 其他大多数 | **-tion** | action, protection |
+| 直接加词根 | **-ion** | opinion, union |
+
+---
+
+## 🔊 发音规律
+
+### 重音前移规律（最重要！）
+
+**规律**：动词变成 -ion/-sion/-tion 名词时，**重音总是向前移动到 -ion 前的音节**
+
+| 动词 | 名词 | 重音变化 |
+|:-----|------|----------|
+| per**MIT** (/pəˈmɪt/) | per**MIS**sion (/pəˈmɪʃn/) | 重音前移 |
+| ad**MIT** (/ədˈmɪt/) | ad**MIS**sion (/ədˈmɪʃn/) | 重音前移 |
+| de**CIDE** (/dɪˈsaɪd/) | de**CI**sion (/dɪˈsɪʒn/) | 重音前移 |
+
+> [!info] 普遍规律
+> ```
+> 动词：重音通常在最后一个音节
+> 名词(-ion)：重音移到 -ion 前的音节
+>
+> 这是一条非常有用的规律！
+> ```
+
+---
+
+## 💡 记忆技巧
+
+### 技巧1：分类记忆法
+
+按后缀类型分类记忆：
+
+```
+-tion 族（最常见）：
+action, creation, invention...
+
+-sion 族（特殊）：
+permission, admission, decision...
+
+-ion 族（直接加）：
+opinion, union, question...
+```
+
+### 技巧2：动词名词配对
+
+记住常用动词名词对：
+
+```
+act → action
+create → creation
+invent → invention
+permit → permission
+admit → admission
+decide → decision
+```
+
+### 技巧3：记忆口诀
+
+```
+-ion/-sion 是后缀，
+动词变名没问题！
+
+多数都用 -tion 加，
+-d/-de 词根 -sion 挂。
+mit/miss 家族也 -sion，
+直接加词根就用 -ion。
+
+重音前移要注意，
+发音都是 /ʃn/ 音。
+```
+
+---
+
+## ⚠️ 常见错误与注意点
+
+### 错误1：拼写错误
+
+```
+❌ permition, admition, submition
+✓ permission, admission, submission
+
+错误原因：忘记了 mit-/miss- 词根用 -sion
+```
+
+### 错误2：重音错误
+
+```
+❌ perMISSion (重音错误)
+✓ perMISsion (重音正确)
+
+错误原因：没有掌握重音前移规律
+```
+
+---
+
+## 📚 常用词汇表
+
+### 高频 -tion 词（前20个）
+
+1. action - 行动
+2. creation - 创造
+3. invention - 发明
+4. collection - 收集
+5. connection - 连接
+6. protection - 保护
+7. correction - 纠正
+8. selection - 选择
+9. suggestion - 建议
+10. construction - 建造
+11. operation - 操作
+12. population - 人口
+13. information - 信息
+14. imagination - 想象
+15. organization - 组织
+16. preparation - 准备
+17. examination - 检查
+18. explanation - 解释
+19. translation - 翻译
+20. decoration - 装饰
+
+### 高频 -sion 词（前10个）
+
+1. permission - 许可
+2. decision - 决定
+3. division - 分割
+4. expansion - 扩张
+5. impression - 印象
+6. expression - 表达
+7. confusion - 困惑
+8. discussion - 讨论
+9. revision - 修订
+10. inclusion - 包含
+
+### 高频 -ion 词（前10个）
+
+1. opinion - 意见
+2. union - 联合
+3. region - 地区
+4. condition - 条件
+5. situation - 情况
+6. question - 问题
+7. million - 百万
+8. billion - 十亿
+9. companion - 同伴
+10. champion - 冠军
+
+---
+
+## 📝 学习笔记
+
+### 复习要点
+- [ ] -ion/-sion/-tion 的发音相同：/ʃn/
+- [ ] -tion 是最常见的形式
+- [ ] -sion 用于特殊词根（mit-/miss-, -d/-de结尾）
+- [ ] 掌握重音前移规律
+- [ ] 记住拼写变化规则
+
+### 常见错误提醒
+- [ ] ❌ 不要忘记 -te 结尾要去 e
+- [ ] ❌ 不要混淆 mit-/miss- 词根的形式
+- [ ] ✅ 记住：动词重音在后，名词重音前移
+
+---
+
+## 🔗 相关链接
+
+### 后缀相关
+- [[suffix]] - 后缀（对比学习）
+
+### 单词示例
+- [[permission]] - 许可（-sion 示例）
+- [[decision]] - 决定（-sion 示例）
+- [[action]] - 行动（-tion 示例）
+
+### 词根相关
+- [[-miss-]] - 词根（-sion 主要与 -miss- 配合）
+- [[-mit-]] - 词根（动词形式）
+
+---
+
+## 参考来源
+
+- [Etymonline](https://www.etymonline.com/)
+- [PrefixSuffix.com: -tion Suffix](https://www.prefixsuffix.com/roots-and-derivatives/230/)
+- [Vocabulary.com: Words ending in -tion](https://www.vocabulary.com/lists/879459)
+
+---
+%%最后复习：2026-01-31%%
+%%下次复习提醒：2周后%%
