@@ -30,7 +30,7 @@ reviewed: false
 > - ✅ content = con + tent (拉丁语：held together)
 > - ❌ 不是 con- (前缀) + tent
 >
-> 参见：[[../prefix/com-]] 中的例外列表
+> 参见：[[com-]] 中的例外列表
 
 ---
 
@@ -340,7 +340,7 @@ I'm con-TENT with my life. (我对生活很满意)
 ### 词根相关
 - [[contain]] - 包含 (同源词)
 - [[continue]] - 继续 (同源词)
-- [[../prefix/com-]] - 前缀说明（注意：content 不包含此前缀！）
+- [[com-]] - 前缀说明（注意：content 不包含此前缀！）
 
 ### 词汇相关
 - [[contentment]] - 满足、满意（名词）

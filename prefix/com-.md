@@ -143,7 +143,7 @@ next_review: 2026-02-14
 | [[compress]] | com- + press (press) | 压缩 | 完全压紧 |
 | [[confirm]] | con- + firm (strong) | 确认、证实 | 使完全坚定 |
 | [[consume]] | con- + sume (take) | 消耗、消费 | 完全拿走 |
-| [[continue]] | con- + tinue (hold) | 继续 | 一直持有 |
+| [[continue]] | con- + tinue (hold) | 继续 | 一直持有 ^[exception] |
 
 > [!info] 含义演变
 > 从"一起"引申出"完全"：
@@ -191,19 +191,39 @@ next_review: 2026-02-14
 
 ### 1. **不是所有 con- 都是前缀**
 
-有些单词以 con- 开头，但 con- 不是前缀：
+有些单词以 con- 开头，但 **con- 不是前缀**，而是拉丁词根的一部分：
+
+#### 来自带 **tenere** (hold) 的词
+
+| 单词 | 实际来源 | 说明 |
+|:-----|----------|------|
+| **[[contain]]** | **continere** (拉丁语：握在一起) | ⚠️ **不是** con- + tain，而是整体演变 |
+| **[[content]]** | **contentus** (continere 的过去分词) | ⚠️ **不是** con- + tent，而是整体演变 |
+| **[[continue]]** | **continuere** (拉丁语：持续持有) | ⚠️ **不是** con- + tinue，而是整体演变 |
+
+> [!warning] 重要区别
+> **这些词的 con- 不是前缀！**
+>
+> - ✅ **典型前缀词**：connect = **con-** (前缀) + **nect** (词根：绑)
+> - ⚠️ **特殊演变词**：contain ← **continere** (整个拉丁词演变而来)
+>
+> **理解方式**：
+> - 可以为了**记忆方便**拆成 `con + tain/tent/tinue`
+> - 但从**严格词源学**角度，这是拉丁词的整体演变
+> - 类比：中文"明白" ≠ "明" + "白"，而是一个整体概念
+
+#### 其他例外词
 
 | 单词 | 说明 |
 |:-----|------|
-| [[content]] | 内容、满足 (con- 不是前缀) |
 | [[condition]] | 条件 (con- 不是前缀) |
 | [[concert]] | 音乐会 (con- 不是前缀) |
 | [[conduct]] | 行为、指挥 (con- 不是前缀) |
 
-> [!warning] 辨别方法
+> [!tip] 辨别方法
 > 如果去掉 con- 后剩下的部分不是已知词根，con- 可能不是前缀。
 > - connect → nect (词根：连接) ✓ 是前缀
-> - content → tent (拉丁语：持有) ✗ 不是前缀
+> - content → tent (来自 tenere 的变体) ✗ 不是前缀
 
 ### 2. **易混淆单词对比**
 

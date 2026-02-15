@@ -45,8 +45,8 @@ next_review: 2026-02-14
 | [[concord]] | con- + cord | 和谐、一致 |
 | [[convince]] | con- + vince | 说服 |
 | [[consider]] | con- + sider | 考虑 |
-| [[contain]] | con- + tain | 包含 |
-| [[continue]] | con- + tinue | 继续 |
+| [[contain]] | con- + tain | 包含 ^[exception] |
+| [[continue]] | con- + tinue | 继续 ^[exception] |
 | [[contract]] | con- + tract | 合同、收缩 |
 | [[control]] | con- + trol | 控制 |
 | [[convert]] | con- + vert | 转换 |
@@ -57,6 +57,22 @@ next_review: 2026-02-14
 
 查看完整词源分析、核心含义、记忆技巧、所有变体对比等内容，请访问：
 **[[com-]]**
+
+---
+
+## ⚠️ 特殊例外
+
+> [!warning] 重要的语言学说明
+> 有些单词虽然以 `con-` 开头，但 **con- 在这里不是前缀**，而是拉丁词根的一部分：
+>
+> - **[[contain]]** & **[[content]]**: 来自拉丁语 **continere**（握在一起）
+>   - 虽然可以为了记忆拆成 `con + tain/tent`
+>   - 但严格来说，这是**拉丁词的整体演变**，不是"前缀+词根"的构词
+> - **[[continue]]**: 类似情况，来自拉丁语 **continuere**
+>
+> **区分方法**：
+> - ✅ 典型前缀词：**connect** = con- (前缀) + nect (词根：绑)
+> - ⚠️ 特殊演变词：**contain** ← continere (整个拉丁词)
 
 ---
 
