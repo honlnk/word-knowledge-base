@@ -2,6 +2,7 @@
 .obsidian/workspaces.json
 
 .obsidian/plugins/obsidian-image-auto-upload-plugin/data.json
+.obsidian/plugins/claudian/data.json
 
 # macOS system files
 .DS_Store
